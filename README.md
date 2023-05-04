@@ -70,6 +70,18 @@ Esse repositório contém códigos desenvolvidos durante a disciplina de Program
 
 </details>
 
+<details>
+<summary>Aula 06</summary>
+
+- Reutilização de classes:
+    - Herança;
+    - Subclasse e superclasse;
+    - Sobreposição (override);
+- Desenvolvimento de um sistema de cadastro de funcionários e alunos de uma universidade
+- [Atividade prática](./datas_de_validade/).
+
+</details>
+
 ## :hammer_and_wrench: Tecnologias utilizadas
 
 - Java;
