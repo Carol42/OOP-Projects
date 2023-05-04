@@ -20,9 +20,6 @@ public class Data{
     }
 
     // metodos get e set
-    public setValidade(int dia, int mes, int ano){
-        this.validade = validade;
-    }
  
     public int getDia(){
         return dia;

@@ -26,16 +26,16 @@ public class Produto {
     public double getPreco(){
         return preco;
     }
-    public double setPreco(double valor){
+    public void setPreco(double valor){
         if(valor>=0)
             preco=valor;
         else
             System.out.println("O valor do produto não pode ser negativo!");
     }
-    public int qtd(){
+    public int getQtd(){
         return qtd;
     }
-    public int qtd(int valor){
+    public void setQtd(int valor){
         if(valor>0)
             qtd=valor;
         else
